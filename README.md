@@ -6,6 +6,9 @@ The program is interactive and user-friendly, prompting the user to input a temp
 
 Features:
 Celsius to Fahrenheit and Kelvin: Convert a given temperature in Celsius to both Fahrenheit and Kelvin.
+
 Fahrenheit to Celsius and Kelvin: Convert a given temperature in Fahrenheit to both Celsius and Kelvin.
+
 Kelvin to Celsius and Fahrenheit: Convert a given temperature in Kelvin to both Celsius and Fahrenheit.
+
 User Input Validation: Ensures that the temperature value provided is a numeric value and the unit is one of the accepted options (C, F, K).
