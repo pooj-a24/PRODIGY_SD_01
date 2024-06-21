@@ -5,10 +5,11 @@ The Temperature Conversion Program is a simple Python script designed to convert
 The program is interactive and user-friendly, prompting the user to input a temperature value and specify its unit of measurement. It then performs the necessary calculations to convert the temperature to the other two units and displays the results.
 
 Features:
-Celsius to Fahrenheit and Kelvin: Convert a given temperature in Celsius to both Fahrenheit and Kelvin.
 
-Fahrenheit to Celsius and Kelvin: Convert a given temperature in Fahrenheit to both Celsius and Kelvin.
+1.Celsius to Fahrenheit and Kelvin: Convert a given temperature in Celsius to both Fahrenheit and Kelvin.
 
-Kelvin to Celsius and Fahrenheit: Convert a given temperature in Kelvin to both Celsius and Fahrenheit.
+2.Fahrenheit to Celsius and Kelvin: Convert a given temperature in Fahrenheit to both Celsius and Kelvin.
 
-User Input Validation: Ensures that the temperature value provided is a numeric value and the unit is one of the accepted options (C, F, K).
+3.Kelvin to Celsius and Fahrenheit: Convert a given temperature in Kelvin to both Celsius and Fahrenheit.
+
+4.User Input Validation: Ensures that the temperature value provided is a numeric value and the unit is one of the accepted options (C, F, K).
